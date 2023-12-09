@@ -3,3 +3,8 @@ Artes
 Matematica
 Biologia
 Portugues
+Fisica
+Ed. Fisica
+Logica
+Historia
+Ciencias sociais
