@@ -2,3 +2,8 @@ prego
 madeira
 argila
 pano
+Esmalte
+mesa
+carderno
+lapiz
+caneta
